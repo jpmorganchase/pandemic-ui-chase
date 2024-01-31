@@ -1,2 +1,2 @@
-# https-github.com-jpmorganchase-ovor
+# pandemic-ui-chase
 JPMC Institute Project Pandemic UI Chase
