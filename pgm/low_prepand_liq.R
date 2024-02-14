@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # Low Pre-Pandemic characteristics
 # Author: Rupsha Debnath
 # Date: 24 October 2023
