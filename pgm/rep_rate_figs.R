@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # rep_rate_figs.R
 # Author: Peter Ganong / Katie Zhang
 # This script produces plots for event study by above/below median rep rate as 
