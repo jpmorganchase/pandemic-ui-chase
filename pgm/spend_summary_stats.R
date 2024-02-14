@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 #spend_summary_stats.R
 #Author: Max Liebeskind
 #Objective: calculate some summary stats on spending and the spend samples.
