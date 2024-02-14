@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 #jobfind_tables.R
 #Author: Peter Ganong
 #Date: 2021-01-20
