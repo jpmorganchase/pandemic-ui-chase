@@ -1,4 +1,4 @@
-
+# SPDX-License-Identifier: MIT
 winsor <- function (x, fraction_low=0.00, fraction_high=.95,
                     value_low = NA, value_high = NA,
                     verbose = TRUE, varname = "var",
