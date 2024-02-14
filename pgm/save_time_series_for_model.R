@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # save_time_series_for_model.R
 # Author: Peter Ganong (?)
 # This script produces and outputs two dataframes (expiry and onset sample) that
