@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # 
 # plot_weekly_coefs <- function(lm_recall, lm_not_recall) {
 #   (bind_rows(
