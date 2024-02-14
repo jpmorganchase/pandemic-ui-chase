@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # weekly_coef_figs.R
 # Author: Katie Zhang
 # This runs regressions with weekly coefficients to new job for binary (above
