@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # rep_rate_prep.R
 # calculates the median benefits and % benefit change in two time periods: “expiration” 
 # (expiration of $600 FPUC at the end of August) and “onset” (onset of $300 
