@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 #R_driver_script.R
 #Author: Katie Zhang, Rupsha Debnath
 #Objective: shell script to run all analysis for latest draft
