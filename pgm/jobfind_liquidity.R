@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # jobfind_liquidity.R
 # Author: Katie Zhang
 # This runs robustness checks on a number of controls. 
