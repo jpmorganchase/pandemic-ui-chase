@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # summer_expiration_funcs.R
 # Author: Rupsha Debnath
 
