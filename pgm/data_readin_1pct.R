@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # Data read in for producing 1% sub-sample
 # September 2022
 # This script reads in the 100% sample and produces a 1% sub-sample
