@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # jobfind_build_1_of_2.R
 # Author: Peter Ganong
 # this creates two cust-week level data frames: df_labor_cust_week and
