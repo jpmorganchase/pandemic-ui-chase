@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # jobfind_build_2_of_2.R
 # Author: Peter Ganong
 # requires df_labor_cust_week and df_ui_cust_week_add_spells from step 1
