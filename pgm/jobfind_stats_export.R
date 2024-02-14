@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # jobfind_stats_export_jan22.R
 # Author: Katie Zhang
 # Date: 2022-01-20
