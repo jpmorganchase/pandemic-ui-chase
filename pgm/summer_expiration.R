@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # summer_expiration.R
 # Author: Rupsha Debnath
 # This script produces exhibits for summer expirations.
