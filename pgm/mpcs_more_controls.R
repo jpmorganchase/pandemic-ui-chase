@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # mpc_more_controls.R
 
 run_spend_build <- TRUE
