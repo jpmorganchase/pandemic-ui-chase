@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # spend_by_ever_recall.R
 # Author: Joe Vavra
 
