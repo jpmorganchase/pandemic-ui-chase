@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 #spend_build.R
 #Author: Peter Ganong/Max Liebeskind
 #Date: Jan 2021
