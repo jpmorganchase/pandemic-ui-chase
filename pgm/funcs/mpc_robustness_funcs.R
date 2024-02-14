@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # mpc_robustness_funcs.R
 
 # Each of these functions are run eight times - full sample, no non-chase cc, debt ach sample,
