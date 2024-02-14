@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # MPC by Liquidity
 # Date: 17 October, 2023
 # Author: Rupsha Debnath
