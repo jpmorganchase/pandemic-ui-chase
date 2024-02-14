@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # Hazard Elasticity Calculations
 # Author: Rupsha Debnath, Joe Vavra
 
