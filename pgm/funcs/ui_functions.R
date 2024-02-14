@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 ##ui_functions.R
 ##Max Liebeskind, July 2020
 library(RColorBrewer)
