@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # ui_eip_data_build.R
 # Author: Peter Ganong
 # Objective: Clean up some of the data from ui_eip_data_read_in.R so that it is
