@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # mpc_cats.R
 # Author: Tim Cejka
 # This script loads a data image created in spend_build.R and
