@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 #ui_data_readin_functions.R
 source(str_c(path_repo, 'pgm/funcs/prelim.R'))
 
