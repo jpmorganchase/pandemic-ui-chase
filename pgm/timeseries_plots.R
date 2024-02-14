@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 #timeseries_plots.R
 #Author: Peter Ganong / Katie Zhang
 #Date: 2021-12-29
