@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # industry_mix_change.R
 # Author: Katie Zhang
 # Date: 2022-01-22
