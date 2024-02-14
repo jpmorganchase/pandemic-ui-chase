@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 #spend_summer_weekly.R
 
 #inputs data frames needed: df_nonui_clean, df_ui_clean, customer_inc_quintiles, cust_eip_touse, cust_ui_sep_expire
