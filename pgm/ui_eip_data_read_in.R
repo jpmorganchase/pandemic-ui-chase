@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 #ui_eip_data_read_in.R
 #Max Liebeskind
 #Sep 2020
