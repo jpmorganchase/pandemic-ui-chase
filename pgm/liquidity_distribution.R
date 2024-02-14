@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # liquidity_distribution.R
 # Author: Katie Zhang
 # Objective: compute some statistics to summarise the magnitude of the reversal
