@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # control_prep.R
 # Author: Katie Zhang
 # Date: 2022-01-11
