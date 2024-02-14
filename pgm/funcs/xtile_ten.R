@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 #The xtile_ten function is used to find values at a specific percentile (but usually median) within JPMCI data while meeting data aggregation standards by taking the average of the ten values around the entered percentile.
 #Arguments:
 # x (data; required)
