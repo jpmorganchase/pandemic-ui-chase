@@ -3,6 +3,11 @@
 #### RAs: Max Liebeskind, Peter Robertson, Katie Zhang, Liam Purkey, Timotej Cejka, Rupsha Debnath
 #### Date: November 21, 2023
 
+This project is currently Archived and not accepting contributions or issues. 
+Forking is permitted if you are interested in developing further. Please remember to attribute us as the source and abide by terms of the license.
+If the authors or maintainers have chosen to accept enquires, contact details will be provided in the README
+Open Source @ JPMorganChase
+
 *Note: This readme describes the entire repository used for this project. The partial replication kit submitted to the American Economics Association includes only the analysis `.R` scripts. The `.py` scripts and their driver script `ui_driver.sh` are not included.*
 
 ### Build
