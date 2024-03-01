@@ -1,9 +1,14 @@
 # READme for uieip project
+<img src="https://github.com/jpmorganchase/pandemic-ui-chase/assets/9026277/049e44ed-a7ed-47ec-92dd-18627cd58a8e" width="150" height="100"> <img src="https://github.com/jpmorganchase/pandemic-ui-chase/assets/9026277/23362f24-7b5d-4a8f-9e1a-9b9b21ca07ae" width="350" height="100">
+
 #### PIs: Peter Ganong, Fiona Greig, Pascal Noel, Daniel M. Sullivan, Joseph Vavra
 #### RAs: Max Liebeskind, Peter Robertson, Katie Zhang, Liam Purkey, Timotej Cejka, Rupsha Debnath
 #### Date: November 21, 2023
 
 This project reflects a collaboration between researchers who, at the time of working on this project, were at the University of Chicago (Peter Ganong, Pascal Noel, and Joseph Vavra) and the JPMorgan Chase Institute (Fiona Greig and Daniel Sullivan). The researchers worked collaboratively on this codebase and on the ideas reflected in the academic research paper ["Spending and Job-Finding Impacts of Expanded Unemployment Insurance Benefits: Evidence from Administrative Micro Data"](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/b/1275/files/2023/11/spending_job_finding_expanded_ui_November_2023.pdf), on which all five are co-authors. This repo contains the codebase that creates the figures and tables in the research paper which analyze JPMorgan Chase Institute data.
+
+
+
 
 Contact information for maintainers: Pascal Noel (pascal.noel@chicagobooth.edu) and Peter Ganong (ganong@uchicago.edu)
 
