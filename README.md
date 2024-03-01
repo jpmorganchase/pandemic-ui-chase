@@ -1,12 +1,11 @@
 # READme for uieip project
-#### PIs: Pascal Noel, Peter Ganong, Fiona Greig, Daniel M. Sullivan, Joseph Vavra
+#### PIs: Peter Ganong, Fiona Greig, Pascal Noel, Daniel M. Sullivan, Joseph Vavra
 #### RAs: Max Liebeskind, Peter Robertson, Katie Zhang, Liam Purkey, Timotej Cejka, Rupsha Debnath
 #### Date: November 21, 2023
 
-This project is currently Archived and not accepting contributions or issues. 
-Forking is permitted if you are interested in developing further. Please remember to attribute us as the source and abide by terms of the license.
-If the authors or maintainers have chosen to accept enquires, contact details will be provided in the README
-Open Source @ JPMorganChase
+This project reflects a collaboration between researchers who, at the time of working on this project, were at the University of Chicago (Peter Ganong, Pascal Noel, and Joseph Vavra) and the JPMorgan Chase Institute (Fiona Greig and Daniel Sullivan). The researchers worked collaboratively on this codebase and on the ideas reflected in the academic research paper ["Spending and Job-Finding Impacts of Expanded Unemployment Insurance Benefits: Evidence from Administrative Micro Data"](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/b/1275/files/2023/11/spending_job_finding_expanded_ui_November_2023.pdf), on which all five are co-authors. This repo contains the codebase that creates the figures and tables in the research paper which analyze JPMorgan Chase Institute data.
+
+Contact information for maintainers: Pascal Noel (pascal.noel@chicagobooth.edu) and Peter Ganong (ganong@uchicago.edu)
 
 *Note: This readme describes the entire repository used for this project. The partial replication kit submitted to the American Economics Association includes only the analysis `.R` scripts. The `.py` scripts and their driver script `ui_driver.sh` are not included.*
 
